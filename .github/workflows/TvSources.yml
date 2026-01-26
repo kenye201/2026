@@ -31,8 +31,8 @@ jobs:
                                
       - name: 提交更改
         run: |
-          git config --global user.name "adminouyang"
-          git config --global user.email "2856364053@qq.com"
+          git config --local user.email "kenye201@outlook.com"
+          git config --local user.name "kenye201"
           git add .
           git commit -m "Add generated file"
           git push -f
