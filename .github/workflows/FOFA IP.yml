@@ -30,7 +30,7 @@ jobs:
 
       - name: 5. 运行 FOFA 抓取与检测
         run: |
-          python py/fofa/fofa_fetch.py
+          python py/fofa/2026.py
           python py/fofa/Detection_ip.py
 
       - name: 6. 生成 M3U 与 TXT 列表 (核心步骤)
