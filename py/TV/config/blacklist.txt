@@ -220,3 +220,6 @@ my5353.com:443
 dminnvll.cdn.mangomolo.com:80
 112.123.243.37:50085
 43.251.226.89:8080
+bp-resource-dfl.bestv.cn:443
+grandprix2023.asuscomm.com:8892
+106.118.70.147:9901
