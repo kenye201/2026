@@ -1,98 +1,62 @@
-name: Hotel
+name: Hotel 自动更新
 
 on:
   schedule:
+    # 每天北京时间 09:00 和 01:00 运行 (UTC 1, 17)
     - cron: "0 1,17 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # 方便你随时手动点击运行
 
 jobs:
   run-hotel:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # 赋予 Actions 写入仓库的权限
 
     steps:
-      - name: Checkout repository
+      - name: 检出代码
         uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # 获取完整历史，防止 pull 冲突
 
-      - name: Set up Python
+      - name: 设置 Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: 安装依赖
         run: |
           python -m pip install --upgrade pip
           pip install aiohttp requests
-      
-      - name: Configure Git
+
+      - name: 配置 Git 身份
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          # 建议改成你自己的 GitHub 邮箱和用户名
+          git config --local user.email "kenye201@outlook.com"
+          git config --local user.name "kenye201"
           git config pull.rebase false
       
-      - name: Run hotel.py
+      - name: 运行脚本
         run: |
-          echo "=== Starting hotel.py ==="
+          echo "=== 开始运行 hotel.py ==="
+          # ！！！请再次确认仓库里确实有这个路径和文件
           python py/Hotel/hotel.py
-          echo "=== Finished hotel.py ==="
+          echo "=== 运行结束 ==="
       
-      - name: Check for changes
-        id: git-status
+      - name: 检查并提交变更
         run: |
-          # 检查是否有文件变更
-          changed_files=""
+          # 检查特定目录下是否有 .txt 文件更新
           if git status --porcelain py/Hotel/ | grep -q .; then
-            echo "检测到变更"
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "changed_files=$(git status --porcelain py/Hotel/ | grep -E '\.txt$' | wc -l)" >> $GITHUB_OUTPUT
+            echo "检测到文件变动，准备提交..."
+            git add py/Hotel/*.txt
+            git commit -m "自动更新: Hotel直播源 $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin main
           else
-            echo "没有检测到变更"
-            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "没有检测到任何变动，跳过提交。"
           fi
-      
-      - name: Pull latest changes
-        if: steps.git-status.outputs.has_changes == 'true'
-        run: |
-          echo "拉取远程最新代码..."
-          git fetch origin
-          git pull origin main --no-rebase || echo "拉取时遇到问题，继续执行..."
-      
-      - name: Commit and push
-        if: steps.git-status.outputs.has_changes == 'true'
-        run: |
-          echo "提交并推送变更..."
-          
-          # 添加所有变更的文件
-          git add py/Hotel/hotel.txt py/Hotel/已检测ip.txt
-          
-          # 提交
-          git commit -m "更新 hotel.txt 和 已检测ip.txt"
-          
-          # 推送
-          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Display results
+
+      - name: 显示结果
         run: |
-          echo "=== 运行结果 ==="
-          if [ -f "py/Hotel/hotel.txt" ]; then
-            hotel_lines=$(wc -l < py/Hotel/hotel.txt)
-            echo "hotel.txt 行数: $hotel_lines"
-          else
-            echo "hotel.txt 未生成"
-          fi
-          
-          if [ -f "py/Hotel/已检测ip.txt" ]; then
-            ip_lines=$(wc -l < py/Hotel/已检测ip.txt)
-            echo "已检测ip.txt 行数: $ip_lines"
-            echo "=== 前10个合格IP ==="
-            head -10 py/Hotel/已检测ip.txt
-          else
-            echo "已检测ip.txt 未生成"
-          fi
+          [ -f "py/Hotel/hotel.txt" ] && echo "hotel.txt 行数: $(wc -l < py/Hotel/hotel.txt)" || echo "未找到 hotel.txt"
