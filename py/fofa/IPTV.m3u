@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-01-28 18:32:03"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-01-28 18:59:11"
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="上海电信1",CCTV1
 http://218.1.145.125:8088/rtp/233.18.204.168:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="上海电信1",CCTV1
@@ -7678,145 +7678,145 @@ http://123.249.85.64:8092/rtp/225.1.8.202:9020
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="北京电信15",淘剧场
 http://123.249.85.64:8092/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="北京电信16",CCTV1
-http://192.144.185.155:6000/rtp/225.1.8.1:8008
+http://115.171.80.52:1688/rtp/225.1.8.1:8008
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="北京电信16",CCTV2
-http://192.144.185.155:6000/rtp/225.1.8.2:8084
+http://115.171.80.52:1688/rtp/225.1.8.2:8084
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="北京电信16",CCTV3
-http://192.144.185.155:6000/rtp/225.1.8.88:8000
+http://115.171.80.52:1688/rtp/225.1.8.88:8000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京电信16",CCTV4
-http://192.144.185.155:6000/rtp/225.1.8.4:8092
+http://115.171.80.52:1688/rtp/225.1.8.4:8092
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="北京电信16",CCTV5
-http://192.144.185.155:6000/rtp/225.1.8.89:8000
+http://115.171.80.52:1688/rtp/225.1.8.89:8000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="北京电信16",CCTV5+
-http://192.144.185.155:6000/rtp/225.1.8.20:8004
+http://115.171.80.52:1688/rtp/225.1.8.20:8004
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="北京电信16",CCTV6
-http://192.144.185.155:6000/rtp/225.1.8.84:8000
+http://115.171.80.52:1688/rtp/225.1.8.84:8000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="北京电信16",CCTV7
-http://192.144.185.155:6000/rtp/225.1.8.7:8104
+http://115.171.80.52:1688/rtp/225.1.8.7:8104
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="北京电信16",CCTV8
-http://192.144.185.155:6000/rtp/225.1.8.85:8000
+http://115.171.80.52:1688/rtp/225.1.8.85:8000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="北京电信16",CCTV9
-http://192.144.185.155:6000/rtp/225.1.8.9:8112
+http://115.171.80.52:1688/rtp/225.1.8.9:8112
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="北京电信16",CCTV10
-http://192.144.185.155:6000/rtp/225.1.8.10:8116
+http://115.171.80.52:1688/rtp/225.1.8.10:8116
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="北京电信16",CCTV11
-http://192.144.185.155:6000/rtp/225.1.8.73:8120
+http://115.171.80.52:1688/rtp/225.1.8.73:8120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="北京电信16",CCTV12
-http://192.144.185.155:6000/rtp/225.1.8.12:8124
+http://115.171.80.52:1688/rtp/225.1.8.12:8124
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="北京电信16",CCTV13
-http://192.144.185.155:6000/rtp/225.1.8.168:8130
+http://115.171.80.52:1688/rtp/225.1.8.168:8130
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="北京电信16",CCTV14
-http://192.144.185.155:6000/rtp/225.1.8.14:8132
+http://115.171.80.52:1688/rtp/225.1.8.14:8132
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="北京电信16",CCTV15
-http://192.144.185.155:6000/rtp/225.1.8.74:8136
+http://115.171.80.52:1688/rtp/225.1.8.74:8136
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="北京电信16",CCTV17
-http://192.144.185.155:6000/rtp/225.1.8.17:8144
+http://115.171.80.52:1688/rtp/225.1.8.17:8144
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数爱上4K电影.png" group-title="北京电信16",华数爱上4K电影
-http://192.144.185.155:6000/rtp/225.1.8.80:2000
+http://115.171.80.52:1688/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘4K.png" group-title="北京电信16",淘4K
-http://192.144.185.155:6000/rtp/225.1.8.211:8002
+http://115.171.80.52:1688/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="北京电信16",东方卫视
-http://192.144.185.155:6000/rtp/225.1.8.45:8032
+http://115.171.80.52:1688/rtp/225.1.8.45:8032
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="北京电信16",北京卫视
-http://192.144.185.155:6000/rtp/225.1.8.21:8002
+http://115.171.80.52:1688/rtp/225.1.8.21:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="北京电信16",江苏卫视
-http://192.144.185.155:6000/rtp/225.1.8.44:8028
+http://115.171.80.52:1688/rtp/225.1.8.44:8028
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="北京电信16",浙江卫视
-http://192.144.185.155:6000/rtp/225.1.8.46:8036
+http://115.171.80.52:1688/rtp/225.1.8.46:8036
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="北京电信16",深圳卫视
-http://192.144.185.155:6000/rtp/225.1.8.43:8020
+http://115.171.80.52:1688/rtp/225.1.8.43:8020
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="北京电信16",湖北卫视
-http://192.144.185.155:6000/rtp/225.1.8.47:8044
+http://115.171.80.52:1688/rtp/225.1.8.47:8044
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="北京电信16",湖南卫视
-http://192.144.185.155:6000/rtp/225.1.8.41:8012
+http://115.171.80.52:1688/rtp/225.1.8.41:8012
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视.png" group-title="北京电信16",三沙卫视
-http://192.144.185.155:6000/rtp/225.1.8.78:4120
+http://115.171.80.52:1688/rtp/225.1.8.78:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="北京电信16",东南卫视
-http://192.144.185.155:6000/rtp/225.1.8.79:8148
+http://115.171.80.52:1688/rtp/225.1.8.79:8148
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="北京电信16",天津卫视
-http://192.144.185.155:6000/rtp/225.1.8.48:8044
+http://115.171.80.52:1688/rtp/225.1.8.48:8044
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="北京电信16",安徽卫视
-http://192.144.185.155:6000/rtp/225.1.8.52:8064
+http://115.171.80.52:1688/rtp/225.1.8.52:8064
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="北京电信16",山东卫视
-http://192.144.185.155:6000/rtp/225.1.8.50:8052
+http://115.171.80.52:1688/rtp/225.1.8.50:8052
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="北京电信16",广东卫视
-http://192.144.185.155:6000/rtp/225.1.8.49:8048
+http://115.171.80.52:1688/rtp/225.1.8.49:8048
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="北京电信16",江西卫视
-http://192.144.185.155:6000/rtp/225.1.8.171:8166
+http://115.171.80.52:1688/rtp/225.1.8.171:8166
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="北京电信16",河北卫视
-http://192.144.185.155:6000/rtp/225.1.8.76:8002
+http://115.171.80.52:1688/rtp/225.1.8.76:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="北京电信16",贵州卫视
-http://192.144.185.155:6000/rtp/225.1.8.77:8076
+http://115.171.80.52:1688/rtp/225.1.8.77:8076
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="北京电信16",辽宁卫视
-http://192.144.185.155:6000/rtp/225.1.8.51:8056
+http://115.171.80.52:1688/rtp/225.1.8.51:8056
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="北京电信16",重庆卫视
-http://192.144.185.155:6000/rtp/225.1.8.172:8162
+http://115.171.80.52:1688/rtp/225.1.8.172:8162
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="北京电信16",黑龙江卫视
-http://192.144.185.155:6000/rtp/225.1.8.42:8016
+http://115.171.80.52:1688/rtp/225.1.8.42:8016
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="北京电信16",CETV1
-http://192.144.185.155:6000/rtp/225.1.8.32:8152
+http://115.171.80.52:1688/rtp/225.1.8.32:8152
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="北京电信16",CETV1
-http://192.144.185.155:6000/rtp/225.1.8.169:4120
+http://115.171.80.52:1688/rtp/225.1.8.169:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2.png" group-title="北京电信16",CETV2
-http://192.144.185.155:6000/rtp/225.1.8.193:4120
+http://115.171.80.52:1688/rtp/225.1.8.193:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV3.png" group-title="北京电信16",CETV3
-http://192.144.185.155:6000/rtp/225.1.8.194:4120
+http://115.171.80.52:1688/rtp/225.1.8.194:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="北京电信16",CETV4
-http://192.144.185.155:6000/rtp/225.1.8.195:4120
+http://115.171.80.52:1688/rtp/225.1.8.195:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="北京电信16",CGTN
-http://192.144.185.155:6000/rtp/225.1.8.116:8056
+http://115.171.80.52:1688/rtp/225.1.8.116:8056
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数动作影院.png" group-title="北京电信16",华数动作影院
-http://192.144.185.155:6000/rtp/225.1.8.252:4120
+http://115.171.80.52:1688/rtp/225.1.8.252:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数动画.png" group-title="北京电信16",华数动画
-http://192.144.185.155:6000/rtp/225.1.8.240:4120
+http://115.171.80.52:1688/rtp/225.1.8.240:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数喜剧影院.png" group-title="北京电信16",华数喜剧影院
-http://192.144.185.155:6000/rtp/225.1.8.251:4120
+http://115.171.80.52:1688/rtp/225.1.8.251:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数家庭影院.png" group-title="北京电信16",华数家庭影院
-http://192.144.185.155:6000/rtp/225.1.8.253:4120
+http://115.171.80.52:1688/rtp/225.1.8.253:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数少儿动画.png" group-title="北京电信16",华数少儿动画
-http://192.144.185.155:6000/rtp/225.1.8.207:9000
+http://115.171.80.52:1688/rtp/225.1.8.207:9000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数星影.png" group-title="北京电信16",华数星影
-http://192.144.185.155:6000/rtp/225.1.8.254:4120
+http://115.171.80.52:1688/rtp/225.1.8.254:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数精选.png" group-title="北京电信16",华数精选
-http://192.144.185.155:6000/rtp/225.1.8.234:4120
+http://115.171.80.52:1688/rtp/225.1.8.234:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数经典电影.png" group-title="北京电信16",华数经典电影
-http://192.144.185.155:6000/rtp/225.1.8.203:9024
+http://115.171.80.52:1688/rtp/225.1.8.203:9024
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数魅力时尚.png" group-title="北京电信16",华数魅力时尚
-http://192.144.185.155:6000/rtp/225.1.8.204:9012
+http://115.171.80.52:1688/rtp/225.1.8.204:9012
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿.png" group-title="北京电信16",卡酷少儿
-http://192.144.185.155:6000/rtp/225.1.8.35:8000
+http://115.171.80.52:1688/rtp/225.1.8.35:8000
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通.png" group-title="北京电信16",嘉佳卡通
-http://192.144.185.155:6000/rtp/225.1.8.170:9268
+http://115.171.80.52:1688/rtp/225.1.8.170:9268
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="北京电信16",快乐垂钓
-http://192.144.185.155:6000/rtp/225.1.8.71:8002
+http://115.171.80.52:1688/rtp/225.1.8.71:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘BABY.png" group-title="北京电信16",淘BABY
-http://192.144.185.155:6000/rtp/225.1.8.36:8002
+http://115.171.80.52:1688/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘娱乐.png" group-title="北京电信16",淘娱乐
-http://192.144.185.155:6000/rtp/225.1.8.61:8002
+http://115.171.80.52:1688/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘电影.png" group-title="北京电信16",淘电影
-http://192.144.185.155:6000/rtp/225.1.8.38:8002
+http://115.171.80.52:1688/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘精彩.png" group-title="北京电信16",淘精彩
-http://192.144.185.155:6000/rtp/225.1.8.33:8002
+http://115.171.80.52:1688/rtp/225.1.8.33:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/纪实人文.png" group-title="北京电信16",纪实人文
-http://192.144.185.155:6000/rtp/225.1.8.53:8060
+http://115.171.80.52:1688/rtp/225.1.8.53:8060
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="北京电信16",茶频道
-http://192.144.185.155:6000/rtp/225.1.8.72:8002
+http://115.171.80.52:1688/rtp/225.1.8.72:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/萌宠TV.png" group-title="北京电信16",萌宠TV
-http://192.144.185.155:6000/rtp/225.1.8.63:8002
+http://115.171.80.52:1688/rtp/225.1.8.63:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="北京电信16",金鹰卡通
-http://192.144.185.155:6000/rtp/225.1.8.163:9252
+http://115.171.80.52:1688/rtp/225.1.8.163:9252
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="北京电信16",金鹰纪实
-http://192.144.185.155:6000/rtp/225.1.8.31:8156
+http://115.171.80.52:1688/rtp/225.1.8.31:8156
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数军旅剧场.png" group-title="北京电信16",华数军旅剧场
-http://192.144.185.155:6000/rtp/225.1.8.228:4120
+http://115.171.80.52:1688/rtp/225.1.8.228:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数古装剧场.png" group-title="北京电信16",华数古装剧场
-http://192.144.185.155:6000/rtp/225.1.8.229:4120
+http://115.171.80.52:1688/rtp/225.1.8.229:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数城市剧场.png" group-title="北京电信16",华数城市剧场
-http://192.144.185.155:6000/rtp/225.1.8.227:4120
+http://115.171.80.52:1688/rtp/225.1.8.227:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数热播剧场.png" group-title="北京电信16",华数热播剧场
-http://192.144.185.155:6000/rtp/225.1.8.202:9020
+http://115.171.80.52:1688/rtp/225.1.8.202:9020
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="北京电信16",淘剧场
-http://192.144.185.155:6000/rtp/225.1.8.37:8002
+http://115.171.80.52:1688/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="北京电信17",CCTV1
 http://115.171.80.52:1688/rtp/225.1.8.1:8008
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="北京电信17",CCTV2
@@ -7956,146 +7956,6 @@ http://115.171.80.52:1688/rtp/225.1.8.227:4120
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数热播剧场.png" group-title="北京电信17",华数热播剧场
 http://115.171.80.52:1688/rtp/225.1.8.202:9020
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="北京电信17",淘剧场
-http://115.171.80.52:1688/rtp/225.1.8.37:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="北京电信18",CCTV1
-http://115.171.80.52:1688/rtp/225.1.8.1:8008
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="北京电信18",CCTV2
-http://115.171.80.52:1688/rtp/225.1.8.2:8084
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="北京电信18",CCTV3
-http://115.171.80.52:1688/rtp/225.1.8.88:8000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京电信18",CCTV4
-http://115.171.80.52:1688/rtp/225.1.8.4:8092
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="北京电信18",CCTV5
-http://115.171.80.52:1688/rtp/225.1.8.89:8000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="北京电信18",CCTV5+
-http://115.171.80.52:1688/rtp/225.1.8.20:8004
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="北京电信18",CCTV6
-http://115.171.80.52:1688/rtp/225.1.8.84:8000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="北京电信18",CCTV7
-http://115.171.80.52:1688/rtp/225.1.8.7:8104
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="北京电信18",CCTV8
-http://115.171.80.52:1688/rtp/225.1.8.85:8000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="北京电信18",CCTV9
-http://115.171.80.52:1688/rtp/225.1.8.9:8112
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="北京电信18",CCTV10
-http://115.171.80.52:1688/rtp/225.1.8.10:8116
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="北京电信18",CCTV11
-http://115.171.80.52:1688/rtp/225.1.8.73:8120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="北京电信18",CCTV12
-http://115.171.80.52:1688/rtp/225.1.8.12:8124
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="北京电信18",CCTV13
-http://115.171.80.52:1688/rtp/225.1.8.168:8130
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="北京电信18",CCTV14
-http://115.171.80.52:1688/rtp/225.1.8.14:8132
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="北京电信18",CCTV15
-http://115.171.80.52:1688/rtp/225.1.8.74:8136
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="北京电信18",CCTV17
-http://115.171.80.52:1688/rtp/225.1.8.17:8144
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数爱上4K电影.png" group-title="北京电信18",华数爱上4K电影
-http://115.171.80.52:1688/rtp/225.1.8.80:2000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘4K.png" group-title="北京电信18",淘4K
-http://115.171.80.52:1688/rtp/225.1.8.211:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="北京电信18",东方卫视
-http://115.171.80.52:1688/rtp/225.1.8.45:8032
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="北京电信18",北京卫视
-http://115.171.80.52:1688/rtp/225.1.8.21:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="北京电信18",江苏卫视
-http://115.171.80.52:1688/rtp/225.1.8.44:8028
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="北京电信18",浙江卫视
-http://115.171.80.52:1688/rtp/225.1.8.46:8036
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="北京电信18",深圳卫视
-http://115.171.80.52:1688/rtp/225.1.8.43:8020
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="北京电信18",湖北卫视
-http://115.171.80.52:1688/rtp/225.1.8.47:8044
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="北京电信18",湖南卫视
-http://115.171.80.52:1688/rtp/225.1.8.41:8012
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视.png" group-title="北京电信18",三沙卫视
-http://115.171.80.52:1688/rtp/225.1.8.78:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="北京电信18",东南卫视
-http://115.171.80.52:1688/rtp/225.1.8.79:8148
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="北京电信18",天津卫视
-http://115.171.80.52:1688/rtp/225.1.8.48:8044
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="北京电信18",安徽卫视
-http://115.171.80.52:1688/rtp/225.1.8.52:8064
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="北京电信18",山东卫视
-http://115.171.80.52:1688/rtp/225.1.8.50:8052
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="北京电信18",广东卫视
-http://115.171.80.52:1688/rtp/225.1.8.49:8048
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="北京电信18",江西卫视
-http://115.171.80.52:1688/rtp/225.1.8.171:8166
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="北京电信18",河北卫视
-http://115.171.80.52:1688/rtp/225.1.8.76:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="北京电信18",贵州卫视
-http://115.171.80.52:1688/rtp/225.1.8.77:8076
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="北京电信18",辽宁卫视
-http://115.171.80.52:1688/rtp/225.1.8.51:8056
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="北京电信18",重庆卫视
-http://115.171.80.52:1688/rtp/225.1.8.172:8162
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="北京电信18",黑龙江卫视
-http://115.171.80.52:1688/rtp/225.1.8.42:8016
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="北京电信18",CETV1
-http://115.171.80.52:1688/rtp/225.1.8.32:8152
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="北京电信18",CETV1
-http://115.171.80.52:1688/rtp/225.1.8.169:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2.png" group-title="北京电信18",CETV2
-http://115.171.80.52:1688/rtp/225.1.8.193:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV3.png" group-title="北京电信18",CETV3
-http://115.171.80.52:1688/rtp/225.1.8.194:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="北京电信18",CETV4
-http://115.171.80.52:1688/rtp/225.1.8.195:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="北京电信18",CGTN
-http://115.171.80.52:1688/rtp/225.1.8.116:8056
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数动作影院.png" group-title="北京电信18",华数动作影院
-http://115.171.80.52:1688/rtp/225.1.8.252:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数动画.png" group-title="北京电信18",华数动画
-http://115.171.80.52:1688/rtp/225.1.8.240:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数喜剧影院.png" group-title="北京电信18",华数喜剧影院
-http://115.171.80.52:1688/rtp/225.1.8.251:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数家庭影院.png" group-title="北京电信18",华数家庭影院
-http://115.171.80.52:1688/rtp/225.1.8.253:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数少儿动画.png" group-title="北京电信18",华数少儿动画
-http://115.171.80.52:1688/rtp/225.1.8.207:9000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数星影.png" group-title="北京电信18",华数星影
-http://115.171.80.52:1688/rtp/225.1.8.254:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数精选.png" group-title="北京电信18",华数精选
-http://115.171.80.52:1688/rtp/225.1.8.234:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数经典电影.png" group-title="北京电信18",华数经典电影
-http://115.171.80.52:1688/rtp/225.1.8.203:9024
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数魅力时尚.png" group-title="北京电信18",华数魅力时尚
-http://115.171.80.52:1688/rtp/225.1.8.204:9012
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿.png" group-title="北京电信18",卡酷少儿
-http://115.171.80.52:1688/rtp/225.1.8.35:8000
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通.png" group-title="北京电信18",嘉佳卡通
-http://115.171.80.52:1688/rtp/225.1.8.170:9268
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="北京电信18",快乐垂钓
-http://115.171.80.52:1688/rtp/225.1.8.71:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘BABY.png" group-title="北京电信18",淘BABY
-http://115.171.80.52:1688/rtp/225.1.8.36:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘娱乐.png" group-title="北京电信18",淘娱乐
-http://115.171.80.52:1688/rtp/225.1.8.61:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘电影.png" group-title="北京电信18",淘电影
-http://115.171.80.52:1688/rtp/225.1.8.38:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘精彩.png" group-title="北京电信18",淘精彩
-http://115.171.80.52:1688/rtp/225.1.8.33:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/纪实人文.png" group-title="北京电信18",纪实人文
-http://115.171.80.52:1688/rtp/225.1.8.53:8060
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="北京电信18",茶频道
-http://115.171.80.52:1688/rtp/225.1.8.72:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/萌宠TV.png" group-title="北京电信18",萌宠TV
-http://115.171.80.52:1688/rtp/225.1.8.63:8002
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="北京电信18",金鹰卡通
-http://115.171.80.52:1688/rtp/225.1.8.163:9252
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="北京电信18",金鹰纪实
-http://115.171.80.52:1688/rtp/225.1.8.31:8156
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数军旅剧场.png" group-title="北京电信18",华数军旅剧场
-http://115.171.80.52:1688/rtp/225.1.8.228:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数古装剧场.png" group-title="北京电信18",华数古装剧场
-http://115.171.80.52:1688/rtp/225.1.8.229:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数城市剧场.png" group-title="北京电信18",华数城市剧场
-http://115.171.80.52:1688/rtp/225.1.8.227:4120
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华数热播剧场.png" group-title="北京电信18",华数热播剧场
-http://115.171.80.52:1688/rtp/225.1.8.202:9020
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="北京电信18",淘剧场
 http://115.171.80.52:1688/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="北京电信2",CCTV1
 http://1.92.77.206:7170/rtp/225.1.8.1:8008
