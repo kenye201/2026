@@ -223,3 +223,6 @@ dminnvll.cdn.mangomolo.com:80
 bp-resource-dfl.bestv.cn:443
 grandprix2023.asuscomm.com:8892
 106.118.70.147:9901
+xxwx.yoesun.com:80
+hdl-vip-ws.qf.56.com:443
+111.221.137.155:44330
