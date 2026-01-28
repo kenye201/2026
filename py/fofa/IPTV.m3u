@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-01-29 07:31:59"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-01-29 07:53:32"
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="上海电信1",CCTV1
 http://218.1.145.125:8088/rtp/233.18.204.168:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="上海电信1",CCTV1
@@ -40444,6 +40444,170 @@ http://120.41.66.7:18888/rtp/239.61.3.59:9872
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="福建省电信2",金鹰卡通
 http://120.41.66.7:18888/rtp/239.61.2.221:9314
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="福建省电信2",金鹰纪实
+http://120.41.66.7:18888/rtp/239.61.3.7:9560
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="福建省电信3",CCTV1
+http://120.41.66.7:18888/rtp/239.61.3.61:9884
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="福建省电信3",CCTV2
+http://120.41.66.7:18888/rtp/239.61.2.174:9032
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="福建省电信3",CCTV3
+http://120.41.66.7:18888/rtp/239.61.3.34:9722
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="福建省电信3",CCTV4
+http://120.41.66.7:18888/rtp/239.61.2.206:9224
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="福建省电信3",CCTV5
+http://120.41.66.7:18888/rtp/239.61.3.35:9728
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="福建省电信3",CCTV5+
+http://120.41.66.7:18888/rtp/239.61.2.171:9014
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="福建省电信3",CCTV6
+http://120.41.66.7:18888/rtp/239.61.3.36:9734
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="福建省电信3",CCTV7
+http://120.41.66.7:18888/rtp/239.61.2.175:9038
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="福建省电信3",CCTV8
+http://120.41.66.7:18888/rtp/239.61.3.37:9740
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="福建省电信3",CCTV9
+http://120.41.66.7:18888/rtp/239.61.2.172:9020
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="福建省电信3",CCTV10
+http://120.41.66.7:18888/rtp/239.61.2.176:9044
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="福建省电信3",CCTV11
+http://120.41.66.7:18888/rtp/239.61.2.21:8120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="福建省电信3",CCTV12
+http://120.41.66.7:18888/rtp/239.61.2.177:9050
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="福建省电信3",CCTV13
+http://120.41.66.7:18888/rtp/239.61.2.23:8132
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="福建省电信3",CCTV14
+http://120.41.66.7:18888/rtp/239.61.2.178:9056
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="福建省电信3",CCTV15
+http://120.41.66.7:18888/rtp/239.61.2.25:8144
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="福建省电信3",CCTV17
+http://120.41.66.7:18888/rtp/239.61.3.9:9572
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="福建省电信3",东方卫视
+http://120.41.66.7:18888/rtp/239.61.2.28:8162
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="福建省电信3",北京卫视
+http://120.41.66.7:18888/rtp/239.61.2.32:8186
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="福建省电信3",江苏卫视
+http://120.41.66.7:18888/rtp/239.61.2.30:8174
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="福建省电信3",浙江卫视
+http://120.41.66.7:18888/rtp/239.61.2.29:8168
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="福建省电信3",深圳卫视
+http://120.41.66.7:18888/rtp/239.61.3.46:9794
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="福建省电信3",湖北卫视
+http://120.41.66.7:18888/rtp/239.61.2.120:8714
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="福建省电信3",湖南卫视
+http://120.41.66.7:18888/rtp/239.61.2.31:8180
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视.png" group-title="福建省电信3",三沙卫视
+http://120.41.66.7:18888/rtp/239.61.3.10:9578
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="福建省电信3",东南卫视
+http://120.41.66.7:18888/rtp/239.61.2.132:8708
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视.png" group-title="福建省电信3",云南卫视
+http://120.41.66.7:18888/rtp/239.61.2.61:8360
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/兵团卫视.png" group-title="福建省电信3",兵团卫视
+http://120.41.66.7:18888/rtp/239.61.2.228:9356
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视.png" group-title="福建省电信3",内蒙古卫视
+http://120.41.66.7:18888/rtp/239.61.2.226:9344
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视.png" group-title="福建省电信3",厦门卫视
+http://120.41.66.7:18888/rtp/239.61.2.11:8060
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="福建省电信3",吉林卫视
+http://120.41.66.7:18888/rtp/239.61.2.223:9326
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="福建省电信3",吉林卫视
+http://120.41.66.7:18888/rtp/239.61.2.223:9326
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="福建省电信3",四川卫视
+http://120.41.66.7:18888/rtp/239.61.2.251:9494
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="福建省电信3",天津卫视
+http://120.41.66.7:18888/rtp/239.61.2.180:9068
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宁夏卫视.png" group-title="福建省电信3",宁夏卫视
+http://120.41.66.7:18888/rtp/239.61.2.56:8330
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="福建省电信3",安徽卫视
+http://120.41.66.7:18888/rtp/239.61.2.248:9476
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="福建省电信3",山东卫视
+http://120.41.66.7:18888/rtp/239.61.2.119:8708
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视.png" group-title="福建省电信3",山西卫视
+http://120.41.66.7:18888/rtp/239.61.2.224:9332
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="福建省电信3",广东卫视
+http://120.41.66.7:18888/rtp/239.61.2.33:8192
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视.png" group-title="福建省电信3",广西卫视
+http://120.41.66.7:18888/rtp/239.61.2.48:8282
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/新疆卫视.png" group-title="福建省电信3",新疆卫视
+http://120.41.66.7:18888/rtp/239.61.2.227:9350
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="福建省电信3",江西卫视
+http://120.41.66.7:18888/rtp/239.61.2.182:9080
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="福建省电信3",河北卫视
+http://120.41.66.7:18888/rtp/239.61.2.57:8336
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="福建省电信3",河南卫视
+http://120.41.66.7:18888/rtp/239.61.2.59:8348
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/海南卫视.png" group-title="福建省电信3",海南卫视
+http://120.41.66.7:18888/rtp/239.61.2.42:8246
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/海峡卫视.png" group-title="福建省电信3",海峡卫视
+http://120.41.66.7:18888/rtp/239.61.2.151:8894
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视.png" group-title="福建省电信3",甘肃卫视
+http://120.41.66.7:18888/rtp/239.61.2.225:9338
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视.png" group-title="福建省电信3",甘肃卫视
+http://120.41.66.7:18888/rtp/239.61.2.225:9338
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="福建省电信3",西藏卫视
+http://120.41.66.7:18888/rtp/239.61.2.229:9362
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="福建省电信3",贵州卫视
+http://120.41.66.7:18888/rtp/239.61.2.159:8942
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="福建省电信3",辽宁卫视
+http://120.41.66.7:18888/rtp/239.61.2.181:9074
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="福建省电信3",重庆卫视
+http://120.41.66.7:18888/rtp/239.61.2.250:9488
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视.png" group-title="福建省电信3",青海卫视
+http://120.41.66.7:18888/rtp/239.61.2.60:8354
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="福建省电信3",黑龙江卫视
+http://120.41.66.7:18888/rtp/239.61.2.34:8198
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建公共频道.png" group-title="福建省电信3",福建公共频道
+http://120.41.66.7:18888/rtp/239.61.2.3:8012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建少儿频道.png" group-title="福建省电信3",福建少儿频道
+http://120.41.66.7:18888/rtp/239.61.2.9:8048
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建教育频道.png" group-title="福建省电信3",福建教育频道
+http://120.41.66.7:18888/rtp/239.61.2.173:9026
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建文体频道.png" group-title="福建省电信3",福建文体频道
+http://120.41.66.7:18888/rtp/239.61.2.160:8948
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建新闻频道.png" group-title="福建省电信3",福建新闻频道
+http://120.41.66.7:18888/rtp/239.61.2.4:8018
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建旅游频道.png" group-title="福建省电信3",福建旅游频道
+http://120.41.66.7:18888/rtp/239.61.2.6:8030
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建电视剧频道.png" group-title="福建省电信3",福建电视剧频道
+http://120.41.66.7:18888/rtp/239.61.2.5:8024
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建经济频道.png" group-title="福建省电信3",福建经济频道
+http://120.41.66.7:18888/rtp/239.61.2.7:8036
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/福建综合频道.png" group-title="福建省电信3",福建综合频道
+http://120.41.66.7:18888/rtp/239.61.3.4:9542
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="福建省电信3",CETV1
+http://120.41.66.7:18888/rtp/239.61.2.167:8990
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2.png" group-title="福建省电信3",CETV2
+http://120.41.66.7:18888/rtp/239.61.3.6:9554
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="福建省电信3",CETV4
+http://120.41.66.7:18888/rtp/239.61.3.15:9608
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN俄语.png" group-title="福建省电信3",CGTN俄语
+http://120.41.66.7:18888/rtp/239.61.3.45:9788
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="福建省电信3",CGTN法语
+http://120.41.66.7:18888/rtp/239.61.3.44:9782
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN纪录.png" group-title="福建省电信3",CGTN纪录
+http://120.41.66.7:18888/rtp/239.61.3.43:9776
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN英语.png" group-title="福建省电信3",CGTN英语
+http://120.41.66.7:18888/rtp/239.61.2.19:8108
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC动作电影.png" group-title="福建省电信3",CHC动作电影
+http://120.41.66.7:18888/rtp/239.61.3.16:9616
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国天气.png" group-title="福建省电信3",中国天气
+http://120.41.66.7:18888/rtp/239.61.2.64:8378
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="福建省电信3",凤凰中文
+http://120.41.66.7:18888/rtp/239.61.2.184:9092
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="福建省电信3",凤凰资讯
+http://120.41.66.7:18888/rtp/239.61.2.183:9086
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿.png" group-title="福建省电信3",卡酷少儿
+http://120.41.66.7:18888/rtp/239.61.2.222:9320
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通.png" group-title="福建省电信3",嘉佳卡通
+http://120.41.66.7:18888/rtp/239.61.2.72:8426
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/文物宝库.png" group-title="福建省电信3",文物宝库
+http://120.41.66.7:18888/rtp/239.61.3.21:9646
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道.png" group-title="福建省电信3",梨园频道
+http://120.41.66.7:18888/rtp/239.61.3.19:9634
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/武术世界.png" group-title="福建省电信3",武术世界
+http://120.41.66.7:18888/rtp/239.61.3.22:9652
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="福建省电信3",茶频道
+http://120.41.66.7:18888/rtp/239.61.3.59:9872
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="福建省电信3",金鹰卡通
+http://120.41.66.7:18888/rtp/239.61.2.221:9314
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="福建省电信3",金鹰纪实
 http://120.41.66.7:18888/rtp/239.61.3.7:9560
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="重庆电信1",CCTV1
 http://113.205.140.92:4022/rtp/235.254.198.51:1480
