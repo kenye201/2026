@@ -232,3 +232,7 @@ p.ytelc.com:80
 101.66.198.8:9901
 migu.188766.xyz:443
 117.36.76.86:9901
+epg.pw:443
+61.184.46.85:9901
+pull-f3.douyincdn.com:80
+mytv.cdn.com.mp:80
